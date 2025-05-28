@@ -1,5 +1,6 @@
 ---
 outline: deep
+title: FAQ
 ---
 
 # Frequently Asked Questions

@@ -1,5 +1,6 @@
 ---
 layout: home
+title: BlackArch Linux
 
 hero:
   name: "BlackArch Linux"
@@ -34,23 +35,18 @@ features:
 
 <script setup>
 import DevelopersList from './components/DevelopersList.vue'
+import LazyImage from './components/LazyImage.vue'
 </script>
 
----
+## BlackArch Full Iso Screenshots
 
-# BlackArch Full Iso
+| <LazyImage thumbnail="https://blackarch.org/images/screenshots/thumbnails/fluxbox_thumbnail.jpg" full="https://blackarch.org/images/screenshots/fluxbox.jpg" alt="fluxbox" />  | <LazyImage thumbnail="https://blackarch.org/images/screenshots/thumbnails/i3_thumbnail.jpg" full="https://blackarch.org/images/screenshots/i3.jpg" alt="i3" />   | <LazyImage thumbnail="https://blackarch.org/images/screenshots/thumbnails/awesome_thumbnail.jpg" full="https://blackarch.org/images/screenshots/awesome.jpg" alt="awesome" /> |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| <LazyImage thumbnail="https://blackarch.org/images/screenshots/thumbnails/spectrwm_thumbnail.jpg" full="https://blackarch.org/images/screenshots/spectrwm.jpg" alt="spectrwm" /> | <LazyImage thumbnail="https://blackarch.org/images/screenshots/thumbnails/lxdm_thumbnail.jpg" full="https://blackarch.org/images/screenshots/lxdm.jpg" alt="lxdm" /> | <LazyImage thumbnail="https://blackarch.org/images/screenshots/thumbnails/grub_thumbnail.jpg" full="https://blackarch.org/images/screenshots/grub.jpg" alt="grub" /> |
 
-| <img src="https://blackarch.org/images/screenshots/thumbnails/fluxbox_thumbnail.jpg" width="400"/>  | <img src="https://blackarch.org/images/screenshots/thumbnails/i3_thumbnail.jpg" width="400"/>   | <img src="https://blackarch.org/images/screenshots/thumbnails/awesome_thumbnail.jpg" width="400"/> |
-| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| <img src="https://blackarch.org/images/screenshots/thumbnails/spectrwm_thumbnail.jpg" width="400"/> | <img src="https://blackarch.org/images/screenshots/thumbnails/lxdm_thumbnail.jpg" width="400"/> | <img src="https://blackarch.org/images/screenshots/thumbnails/grub_thumbnail.jpg" width="400"/>    |
+## BlackArch Slim Screenshots
 
-# BlackArch Slim Iso
-
-| <img src="https://blackarch.org/images/screenshots/thumbnails/menu_slim.jpg" width="400"/> | <img src="https://blackarch.org/images/screenshots/thumbnails/menu_slim_two.jpg" width="400"/> | <img src="https://blackarch.org/images/screenshots/thumbnails/terminal_slim.jpg" width="400"/> |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-
----
-
-# BlackArch Linux Developers
+| <LazyImage thumbnail="https://blackarch.org/images/screenshots/thumbnails/menu_slim.jpg" full="https://blackarch.org/images/screenshots/menu_slim.png" alt="menu slim" /> | <LazyImage thumbnail="https://blackarch.org/images/screenshots/thumbnails/menu_slim_two.jpg" full="https://blackarch.org/images/screenshots/menu_slim_two.png" alt="menu slim 2" /> | <LazyImage thumbnail="https://blackarch.org/images/screenshots/thumbnails/terminal_slim.jpg" full="https://blackarch.org/images/screenshots/terminal_slim.png" alt="terminal slim" /> |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 
 <DevelopersList />

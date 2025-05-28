@@ -1,5 +1,6 @@
 ---
 outline: deep
+title: News
 ---
 
 # News of BlackArch

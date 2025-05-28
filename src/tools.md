@@ -1,5 +1,6 @@
 ---
 outline: false
+title: Tools
 ---
 
 <script setup>

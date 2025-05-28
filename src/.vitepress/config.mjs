@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/blackarch-demo/",
   title: "BlackArch Linux",
   head: [["link", { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]],
   description:
