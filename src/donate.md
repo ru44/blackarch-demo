@@ -25,3 +25,5 @@ import DonateButton from './components/DonateButton.vue'
 <DonateButton />
 
 <DonorsList />
+
+The display of the donator start from January 2017

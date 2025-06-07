@@ -9,6 +9,11 @@ export default defineConfig({
     "BlackArch Linux is penetration testing distribution for penetration testers and security researchers.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    lastUpdated: true,
+    editLink: {
+      pattern: "https://github.com/ru44/blackarch-demo/edit/main/src/:path",
+      text: "Edit this page on GitHub",
+    },
     search: {
       provider: "local",
     },

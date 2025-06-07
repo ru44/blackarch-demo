@@ -32,7 +32,3 @@ Come keep us company. We have a little community on <a href="https://matrix.to/#
 If you need help, this is the best place to ask.
 
 You can find the official BlackArch Matrix channel here: <a href="https://matrix.to/#/#BlackArch:matrix.org">#BlackArch:matrix.org</a>
-
-## News
-
-This page list our Twitter posts timeline.

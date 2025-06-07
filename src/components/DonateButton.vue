@@ -19,7 +19,12 @@ const copyWallet = async () => {
   <div>
     <h2>Support BlackArch Linux</h2>
 
-    <button type="button" class="paypal-button">
+    <a
+      href="https://www.paypal.com/us/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UPSCCPXHY8EBQ"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="paypal-button"
+    >
       <svg
         class="paypal-icon"
         aria-hidden="true"
@@ -36,7 +41,7 @@ const copyWallet = async () => {
         ></path>
       </svg>
       Donate via PayPal
-    </button>
+    </a>
 
     <button type="button" class="bitcoin-button" @click="showWallet = true">
       <svg
@@ -141,6 +146,7 @@ const copyWallet = async () => {
 }
 
 .paypal-button {
+  text-decoration: none;
   color: white;
   background-color: #003087; /* PayPal Blue */
   font-weight: 500;
@@ -156,6 +162,9 @@ const copyWallet = async () => {
 }
 
 .paypal-button:hover {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
   background-color: rgba(0, 48, 135, 0.9);
 }
 
