@@ -9,21 +9,21 @@ You can find the BlackArch Linux community in several places. If you need to con
 
 ## github
 
-You can find all BlackArch Linux code (including build scripts and website source) on our github.
+You can find all BlackArch Linux code (including build scripts and website source) on our <a href="https://github.com/BlackArch">GitHub</a>
 
 If you have any questions, suggestions, or bugs to report, feel free to post on the issue tracker. We also accept pull requests of all sizes and importance.
 
 ## X (formerly known as Twitter)
 
-Follow us on X! We mainly tweet about new tools, new mirrors, and major project changes.
+Follow us on <a href="https://x.com/BlackArchLinux">X!</a> We mainly tweet about new tools, new mirrors, and major project changes.
 
-We also accept bug reports and suggestions through X. Just mention us. We'll respond.
+We also accept bug reports and suggestions through <a href="https://x.com/BlackArchLinux">X</a>. Just mention us. We'll respond.
 
 ## Youtube
 
-Follow us and subscribe on our YouTube channel! We mainly upload self-made videos about installation, configuration, and major tool usage.
+Follow us and subscribe on our <a href="https://www.youtube.com/channel/UChw5hByy70ey2F7QeLEGICQ">YouTube channel!</a> We mainly upload self-made videos about installation, configuration, and major tool usage.
 
-We also accept your videos to our YouTube channel. Just mention us. We'll respond.
+We also accept your videos to our <a href="https://www.youtube.com/channel/UChw5hByy70ey2F7QeLEGICQ">YouTube channel</a>. Just mention us. We'll respond.
 
 ## Matrix
 

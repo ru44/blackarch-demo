@@ -42,20 +42,20 @@ After testing all the items described above if you still have problems using ```
 1st option:
 
 ```bash
-# rm -rf /etc/pacman.d/gnupg
-# pacman-key --init
-# pacman-key --populate archlinux blackarch
-# pacman-key --update --keyserver keyserver.ubuntu.com
+sudo rm -rf /etc/pacman.d/gnupg
+sudo pacman-key --init
+sudo pacman-key --populate archlinux blackarch
+sudo pacman-key --update --keyserver keyserver.ubuntu.com
 ```
 
 2nd option:
 You could try to change to pgp.mit.edu's IP address using the following command:
 
 ```bash
-# curl -O https://blackarch.org/strap.sh
-# chmod +x strap.sh
-# sha1sum strap.sh: it should match with the information on downloads
-# sh strap.sh
+sudo curl -O https://blackarch.org/strap.sh
+sudo chmod +x strap.sh
+sudo sha1sum strap.sh: it should match with the information on downloads
+sudo sh strap.sh
 ```
 
 3rd option:

@@ -13,6 +13,6 @@ We also have a <a href="https://github.com/BlackArch/blackarch/pulls">GitHub pul
 
 We will also post all the news on our <a href="https://matrix.to/#/#BlackArch:matrix.org">Matrix</a> channel.
 
-We will also post all the news on our <a href="https://youtube.com/BlackArchLinux">YouTube</a> channel.
+We will also post all the news on our <a href="https://www.youtube.com/channel/UChw5hByy70ey2F7QeLEGICQ">YouTube</a> channel.
 
-We will also post all the news on our <a href="https://twitter.com/BlackArchLinux">X (formerly Twitter)</a> channel.
+We will also post all the news on our <a href="https://x.com/BlackArchLinux">X (formerly Twitter)</a> channel.
